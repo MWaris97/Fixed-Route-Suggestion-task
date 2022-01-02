@@ -68,15 +68,16 @@ largeSizeTestData.txt contains a larger sample test data with
 
 ### Stats of 20 runs (average):
 
-    - Sample Data:
-    ```
+ Sample Data:
+ ```
         fileRead: 0.514ms   
         Calculation: 0.201ms
         FileWrite: 2.849ms
         Memory usage: 2.86 MB
-    ```
 ```
-    - Large Data
+
+Large Data
+```
         fileRead: 314.730ms
         Calculation: 955.720ms
         FileWrite: 2.503ms
